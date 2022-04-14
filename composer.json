@@ -1,0 +1,17 @@
+{
+    "name": "formation/inclusion",
+    "description": "inclusion des fichier",
+    "autoload": {
+        "psr-4": {
+            "Formation\\Inclusion\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Magydream",
+            "email": "labrue.lorenzo@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
